@@ -1,4 +1,4 @@
-/* See the COPYING file for copyright details. */
+/* See the COPYRIGHT file for copyright details. */
 #ifndef MINDS_H
 #define MINDS_H
 
