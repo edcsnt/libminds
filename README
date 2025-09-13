@@ -1,9 +1,0 @@
-libminds
-========
-
-libminds is a macro library with minimal data structures.
-
-Usage
------
-
-Simply copy minds.h and include it in your code.

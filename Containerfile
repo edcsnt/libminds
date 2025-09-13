@@ -1,3 +1,4 @@
+# See the COPYING file for copyright details.
 FROM docker.io/library/alpine:latest
 COPY config.mk Makefile minds.h /
 COPY test /test
