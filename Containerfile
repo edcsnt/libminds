@@ -1,4 +1,4 @@
-# See the COPYRIGHT file for copyright details.
+# Copyright 2025 Eduardo Santos. All Rights Reserved.
 FROM docker.io/library/alpine:latest
 COPY config.mk Makefile minds.h /
 COPY test /test

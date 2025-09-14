@@ -1,4 +1,4 @@
-# See the COPYRIGHT file for copyright details.
+# Copyright 2025 Eduardo Santos. All Rights Reserved.
 DESTDIR   =
 PREFIX    = /usr/local
 MANPREFIX = $(PREFIX)/share/man
