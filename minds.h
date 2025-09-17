@@ -1,4 +1,4 @@
-/* Copyright 2025 Eduardo Santos. All Rights Reserved. */
+/* Copyright 2025 Eduardo Santos. All rights reserved. */
 #ifndef MINDS_H
 #define MINDS_H
 
